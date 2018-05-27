@@ -120,4 +120,10 @@ K diode triode valve
 F https://frank.pocnet.net/sheets/082/e/EABC80.pdf
 $ENDCMP
 #
+$CMP 6L6GC
+D tetrode, 30W
+K tetrode valve
+F http://www.r-type.org/pdfs/6l6gc.pdf
+$ENDCMP
+#
 #End Doc Library
